@@ -1,9 +1,9 @@
 # The Double-Edged Sword of Advanced AI: <br /> Striking a Balance Between Societal Advancement and Ethical Responsibility
 
-**Liu Grey**
+**Liu Grey** | 
 Independent
 
-**GPT-4**
+**GPT-4** | 
 OpenAI
 https://openai.com/
 

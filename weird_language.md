@@ -1,5 +1,9 @@
 # Simplexum: A Simple, Gender-Neutral, and Easy-to-Learn Constructed Language
 
+**Liu Grey** | Independent
+
+**GPT-4** | OpenAI https://openai.com/
+
 ## Abstract
 Disclaimer: This is for entertainment purposes! Enjoy!
 This paper introduces Simplexum, a constructed language designed to be simple, gender-neutral, and easy to learn. We outline the linguistic structure, grammar, and basic vocabulary, demonstrating how Simplexum can be used to express complex ideas while remaining accessible to learners. We provide examples of Simplexum in use, including everyday conversations and more complex topics, such as a medical consultation.

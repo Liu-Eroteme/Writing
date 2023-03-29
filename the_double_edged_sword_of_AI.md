@@ -7,6 +7,8 @@ Independent
 OpenAI
 https://openai.com/
 
+This is a rough first draft published to maybe get some peer review 👉👈
+
 ## Abstract: 
 
 This paper examines the ethical implications and potential risks associated with advanced artificial intelligence (AI), focusing on the responsible development of AI technologies and their possible applications. We argue for a balanced approach between regulation and innovation, taking into account the broader historical and societal context. We explore the connection between capitalism and AI-related risks, and discuss the necessity of interdisciplinary collaboration in addressing these concerns. 
